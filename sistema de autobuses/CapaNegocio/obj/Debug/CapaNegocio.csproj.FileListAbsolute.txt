@@ -1,0 +1,11 @@
+C:\Users\jsros\source\repos\Parcial 2- sistema de autobuses\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\jsros\source\repos\Parcial 2- sistema de autobuses\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\jsros\source\repos\Parcial 2- sistema de autobuses\CapaNegocio\bin\Debug\capaDatos.dll
+C:\Users\jsros\source\repos\Parcial 2- sistema de autobuses\CapaNegocio\bin\Debug\capaEntidad.dll
+C:\Users\jsros\source\repos\Parcial 2- sistema de autobuses\CapaNegocio\bin\Debug\capaDatos.pdb
+C:\Users\jsros\source\repos\Parcial 2- sistema de autobuses\CapaNegocio\bin\Debug\capaEntidad.pdb
+C:\Users\jsros\source\repos\Parcial 2- sistema de autobuses\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\jsros\source\repos\Parcial 2- sistema de autobuses\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\jsros\source\repos\Parcial 2- sistema de autobuses\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\jsros\source\repos\Parcial 2- sistema de autobuses\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\jsros\source\repos\Parcial 2- sistema de autobuses\CapaNegocio\obj\Debug\CapaNegocio.pdb

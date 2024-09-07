@@ -1,0 +1,5 @@
+C:\Users\jsros\source\repos\Parcial 2- sistema de autobuses\CapaPresentacio\obj\Debug\CapaPresentacio.csproj.AssemblyReference.cache
+C:\Users\jsros\source\repos\Parcial 2- sistema de autobuses\CapaPresentacio\obj\Debug\CapaPresentacio.Form1.resources
+C:\Users\jsros\source\repos\Parcial 2- sistema de autobuses\CapaPresentacio\obj\Debug\CapaPresentacio.Properties.Resources.resources
+C:\Users\jsros\source\repos\Parcial 2- sistema de autobuses\CapaPresentacio\obj\Debug\CapaPresentacio.csproj.GenerateResource.cache
+C:\Users\jsros\source\repos\Parcial 2- sistema de autobuses\CapaPresentacio\obj\Debug\CapaPresentacio.csproj.CoreCompileInputs.cache
